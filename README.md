@@ -1,4 +1,4 @@
-
+[![Build status](https://dev.azure.com/sandeepanumula0968/AzureYaml/_apis/build/status/AzureYaml-Maven-CI)](https://dev.azure.com/sandeepanumula0968/AzureYaml/_build/latest?definitionId=2)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
